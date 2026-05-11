@@ -139,7 +139,7 @@ I am interested in technology, personal projects, and building solutions with pr
 - 🐧 Learning more about Linux systems and terminal environments
 - ⚡ Exploring electronics and hardware integration
 - 📖 Improving my knowledge of Git, GitHub, and software development tools
-- 🧠 Practicing programming logic and data structures using Python
+- 🧠 Practicing data structures and algorithms using Python
 ---
 
 ### 📫 Contact
