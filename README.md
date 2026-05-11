@@ -146,7 +146,7 @@ I am interested in technology, personal projects, and building solutions with pr
 
 <p align="left">
 
-<a href="mailto:pedrosantanadeveloper@gmail.com" target="_blank">
+<a href="mailto:pedrosantanadeveloper@gmail.com">
   <img 
     src="https://img.shields.io/badge/Email-1E1E1E?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Email"
