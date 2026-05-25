@@ -1,7 +1,7 @@
 # 👨‍💻 Pedro Santana
 **`COLTEC-UFMG Student • Systems Development Student • Software & IoT Enthusiast `**
 
-My name is Pedro Mendes Santana, I am 17 years old, and I am a Systems Development student at COLTEC-UFMG.
+My name is Pedro Mendes Santana, I'm 17 years old, and I'm a Systems Development student at COLTEC-UFMG.
 
 I currently study programming and software development, focusing on Java, programming logic, databases, and software projects.
 
