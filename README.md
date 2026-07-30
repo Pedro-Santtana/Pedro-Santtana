@@ -161,4 +161,11 @@ I am interested in technology, personal projects, and building solutions with pr
   />
 </a>
 
+<a href="https://www.linkedin.com/in/pedrosanttana" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
 </p>
