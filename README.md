@@ -128,7 +128,7 @@ I am interested in technology, personal projects, and building solutions with pr
 
 - Participating in a scientific initiation project focused on mobile application development using Flutter.
 - Teaching assistant for Programming Logic classes at COLTEC-UFMG, supporting students from the post-secondary technical program.
-- Developed academic and personal projects using Java, Flutter, Processing, and Arduino, focusing on programming logic, interfaces, and problem-solving.
+- Developed academic and personal projects using Java, Flutter, Python and Arduino, focusing on programming logic, interfaces, and problem-solving.
 
 ---
 
