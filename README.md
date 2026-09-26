@@ -3,7 +3,7 @@
 
 My name is Pedro Santana, I'm a Systems Development student at COLTEC-UFMG.
 
-I currently study programming and software development, focusing on Java, programming logic, databases, and software projects.
+I currently study programming and software development, focusing on python, ML, databases, and software projects.
 
 I am interested in technology, personal projects, and building solutions with programming, Arduino, and IoT. I also enjoy taking additional technology courses and practicing programming logic and data structures on platforms like [LeetCode](https://leetcode.com).
 
