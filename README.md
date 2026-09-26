@@ -134,7 +134,7 @@ I am interested in technology, personal projects, and building solutions with pr
 
 ### 🚀 Currently
 
-- 📚 Studying Java, Processing, Python, Bash, and other technologies
+- 📚 Studying Java, Python, Machine Learning, C++, and other technologies
 - 🛠️ Developing personal projects with Java, Python, Flutter, Arduino, and IoT
 - 🐧 Learning more about Linux systems and terminal environments
 - ⚡ Exploring electronics and hardware integration
